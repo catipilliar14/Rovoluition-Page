@@ -21,8 +21,8 @@
 
 * [Audit Logs](misc/audit-logs.md)
 * [Blacklists](misc/blacklists.md)
-* [Music Bot](misc/music-bot.md)
 * [General Settings](misc/general-settings.md)
+* [Music Bot](misc/music-bot.md)
 
 ## Other
 
