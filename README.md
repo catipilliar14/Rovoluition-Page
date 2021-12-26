@@ -4,22 +4,14 @@ description: (Overview of rovolution, etc)
 
 # Home
 
-## Welcome to MyAPI
+## Welcome to Rovolution!
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+### What is Rovolution?
 
-## Want to jump right in?
+Overview
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+###
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-## Want to deep dive?
-
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+{% embed url="https://discord.com/oauth2/authorize?client_id=720377344828768257&permissions=1580559424&redirect_uri=http%3A%2F%2Flocalhost%3A5001%2Fwelcome%3Fredirect%3D%22%2Fcommands%22&scope=bot" %}
+Invite Rovolution to your server here.
+{% endembed %}
