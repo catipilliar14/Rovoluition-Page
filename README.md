@@ -49,7 +49,7 @@ GeraldIn2016 role within Rovolution is the founder and creator of Rovolution he 
 
 <summary><img src=".gitbook/assets/Png (38).png" alt="">catipilliar14 - Nillo#4711</summary>
 
-catipilliar14 is the driving force of Rovolution behind the scenes and in the public face, he oversees GDPR compliance along with managing client relationships within Rovolution allowing for any issues to be resolved quickly and resourcefully.&#x20;
+catipilliar14 is the driving force of Rovolution behind the scenes and in the public face, he oversees GDPR compliance along with managing customer relationships within Rovolution allowing for any issues to be resolved quickly and resourcefully.&#x20;
 
 </details>
 
