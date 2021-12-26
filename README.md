@@ -53,11 +53,11 @@ catipilliar14 is the driving force of Rovolution behind the scenes and in the pu
 
 </details>
 
-{% hint style="info" %}
-\*Uptime is based from UpTimeRobot information and is accurate as of 26/12/2021
-{% endhint %}
-
 {% hint style="success" %}
 This documentation is managed by Nillo#4711 if you spot any issues within it please be sure to report them [here](https://discord.com/invite/2bMg4evVWz).
+{% endhint %}
+
+{% hint style="info" %}
+\*Uptime is based from UpTimeRobot information and is accurate as of 26/12/2021
 {% endhint %}
 
