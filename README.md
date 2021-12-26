@@ -1,7 +1,3 @@
----
-description: (Overview of rovolution, etc)
----
-
 # Home
 
 ## Welcome to Rovolution!
@@ -24,6 +20,12 @@ With all the amazing features listed above who wouldn't want to use Rovolution i
 {% embed url="https://discord.com/oauth2/authorize?client_id=720377344828768257&permissions=1580559424&redirect_uri=http%3A%2F%2Flocalhost%3A5001%2Fwelcome%3Fredirect%3D%22%2Fcommands%22&scope=bot" %}
 Invite Rovolution to your server here.
 {% endembed %}
+
+### Rovolution Premium
+
+Although Rovolution comes packed with amazing features there is more features that are available to [Rovolution Premium users from only $2 a month](https://www.rovolution.me/premium).
+
+<table><thead><tr><th>Feature</th><th data-type="checkbox">Standard</th><th data-type="checkbox">Premium</th></tr></thead><tbody><tr><td>Groupbinds</td><td>true</td><td>true</td></tr><tr><td>Nickname Binds</td><td>true</td><td>true</td></tr><tr><td>Group Ranking Bot</td><td>true</td><td>true</td></tr><tr><td>SetUp Command</td><td>true</td><td>true</td></tr><tr><td>Audit Logs</td><td>true</td><td>true</td></tr><tr><td>Daily Auto Update</td><td>false</td><td>true</td></tr><tr><td>Disable Roles from using bot</td><td>false</td><td>true</td></tr><tr><td>Blacklist Users/Groups </td><td>false</td><td>true</td></tr><tr><td>Update All</td><td>false</td><td>true</td></tr><tr><td>Premium Support Service</td><td>false</td><td>true</td></tr></tbody></table>
 
 ### Meet the Rovolution team
 
