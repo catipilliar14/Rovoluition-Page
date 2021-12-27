@@ -11,6 +11,7 @@
 * [Getting Started](verification-bot/getting-started.md)
 * [Group Role Bindings](verification-bot/group-role-bindings.md)
 * [Nickname Bindings](verification-bot/nickname-bindings.md)
+* [Asset Bindings](verification-bot/asset-bindings.md)
 
 ## Ranking Bot
 
