@@ -21,10 +21,11 @@ Rovolution believes in bringing as many features as possible to the users for fr
 
 ### Server Management Commands
 
-|     Command    |                                                                          Usage                                                                         |   |
-| :------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | - |
-| delete (count) |                     This command is locked to server managers and allows you to purge a channel from messages up to three days old.                    |   |
-|    updateall   | This is a **Premium Only** which allows a server manager to mass update everyone in a specific servers roles at once ensuring everyone is up to date.  |   |
+|         Command        |                                                                              Usage                                                                             |   |
+| :--------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | - |
+|     delete (count)     |                         This command is locked to server managers and allows you to purge a channel from messages up to three days old.                        |   |
+|        updateall       | This is a **Premium Only** feature which allows a server manager to mass update everyone in a specific servers roles at once ensuring everyone is up to date.  |   |
+| updaterole (ping role) |                     This is a **Premium Only** feature which allows a server manager to mass update everyone with a specific role at once.                     |   |
 
 ### Rank Bot Commands
 
