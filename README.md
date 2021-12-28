@@ -28,7 +28,7 @@ Although Rovolution comes packed with amazing features there is more features th
 <table><thead><tr><th>Feature</th><th data-type="checkbox">Standard</th><th data-type="checkbox">Premium</th></tr></thead><tbody><tr><td>Groupbinds</td><td>true</td><td>true</td></tr><tr><td>Nickname Binds</td><td>true</td><td>true</td></tr><tr><td>Group Ranking Bot</td><td>true</td><td>true</td></tr><tr><td>SetUp Command</td><td>true</td><td>true</td></tr><tr><td>Audit Logs</td><td>true</td><td>true</td></tr><tr><td>Blacklist Users/Groups </td><td>true</td><td>true</td></tr><tr><td>Disable Roles from using bot</td><td>true</td><td>true</td></tr><tr><td>Asset Role Binds</td><td>false</td><td>true</td></tr><tr><td>Asset Nickname Binds</td><td>false</td><td>true</td></tr><tr><td>UpdateAll Command</td><td>false</td><td>true</td></tr><tr><td>UpdateRoll Command</td><td>false</td><td>true</td></tr><tr><td>Premium Support Service</td><td>false</td><td>true</td></tr><tr><td>Minimum Roblox Account Age</td><td>false</td><td>true</td></tr></tbody></table>
 
 {% hint style="success" %}
-Along with this Premium is just locked to one server, any server you own will automatically get Premium.
+Along with this Premium isn't just locked to one server, meaning any server you own will automatically get Premium.
 {% endhint %}
 
 ### Meet the Rovolution team
