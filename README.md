@@ -45,7 +45,7 @@ GeraldIn2016 role within Rovolution is the founder and creator of Rovolution he 
 
 <summary><img src=".gitbook/assets/Png (36).png" alt=""> ItaloBeneventi - Italo#5321</summary>
 
-
+We have no idea what Italo does - he's just important we guess.&#x20;
 
 </details>
 
