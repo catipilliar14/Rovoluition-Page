@@ -1,22 +1,22 @@
 # Table of contents
 
-## Welcome
+## Welcome <a href="#docs" id="docs"></a>
 
 * [Home](README.md)
-* [Verification Support](welcome/verification-support.md)
-* [Commands](welcome/commands.md)
+* [Verification Support](docs/verification-support.md)
+* [Commands](docs/commands.md)
 
-## Verification Bot
+## Verification Bot <a href="#verify bot" id="verify bot"></a>
 
-* [Getting Started](verification-bot/getting-started.md)
-* [Group Role Bindings](verification-bot/group-role-bindings.md)
-* [Nickname Bindings](verification-bot/nickname-bindings.md)
-* [Asset Bindings](verification-bot/asset-bindings.md)
+* [Getting Started](<verify bot/getting-started.md>)
+* [Group Role Bindings](<verify bot/group-role-bindings.md>)
+* [Nickname Bindings](<verify bot/nickname-bindings.md>)
+* [Asset Bindings](<verify bot/asset-bindings.md>)
 
-## Ranking Bot
+## Ranking Bot <a href="#rank-bot" id="rank-bot"></a>
 
-* [Getting Started](ranking-bot/getting-started.md)
-* [Commands](ranking-bot/commands.md)
+* [Getting Started](rank-bot/getting-started.md)
+* [Commands](rank-bot/commands.md)
 
 ## MISC
 
