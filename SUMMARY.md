@@ -6,12 +6,12 @@
 * [Verification Support](docs/verification-support.md)
 * [Commands](docs/commands.md)
 
-## Verification Bot <a href="#verify bot" id="verify bot"></a>
+## Verification Bot <a href="#verify-bot" id="verify-bot"></a>
 
-* [Getting Started](<verify bot/getting-started.md>)
-* [Group Role Bindings](<verify bot/group-role-bindings.md>)
-* [Nickname Bindings](<verify bot/nickname-bindings.md>)
-* [Asset Bindings](<verify bot/asset-bindings.md>)
+* [Getting Started](verify-bot/getting-started.md)
+* [Group Role Bindings](verify-bot/group-role-bindings.md)
+* [Nickname Bindings](verify-bot/nickname-bindings.md)
+* [Asset Bindings](verify-bot/asset-bindings.md)
 
 ## Ranking Bot <a href="#rank-bot" id="rank-bot"></a>
 
