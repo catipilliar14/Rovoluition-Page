@@ -35,7 +35,7 @@ Along with this Premium isn't just locked to one server, meaning any server you 
 
 <details>
 
-<summary><img src=".gitbook/assets/Png (37).png" alt="">GeraldIn2016 - GeraldisNice#4269</summary>
+<summary><img src=".gitbook/assets/Png (37).png" alt="" data-size="line">GeraldIn2016 - GeraldisNice#4269</summary>
 
 GeraldIn2016 role within Rovolution is the founder and creator of Rovolution he is the very reason Rovolution is able to bring together over 9.8k Roblox users.
 
@@ -43,7 +43,7 @@ GeraldIn2016 role within Rovolution is the founder and creator of Rovolution he 
 
 <details>
 
-<summary><img src=".gitbook/assets/Png (36).png" alt=""> ItaloBeneventi - Italo#5321</summary>
+<summary><img src=".gitbook/assets/Png (36).png" alt="" data-size="line"> ItaloBeneventi - Italo#5321</summary>
 
 We have no idea what Italo does - he's just important we guess.&#x20;
 
@@ -51,7 +51,7 @@ We have no idea what Italo does - he's just important we guess.&#x20;
 
 <details>
 
-<summary><img src=".gitbook/assets/Png (38).png" alt="">catipilliar14 - Nillo#4711</summary>
+<summary><img src=".gitbook/assets/Png (38).png" alt="" data-size="line">catipilliar14 - Nillo#4711</summary>
 
 catipilliar14 is the driving force of Rovolution behind the scenes and in the public face, he oversees GDPR compliance along with managing customer relationships within Rovolution allowing for any issues to be resolved quickly and resourcefully.&#x20;
 

@@ -6,29 +6,10 @@
 * [Verification Support](docs/verification-support.md)
 * [Commands](docs/commands.md)
 
-## Verification Bot <a href="#verify-bot" id="verify-bot"></a>
+## Groups API
 
-* [Getting Started](verify-bot/getting-started.md)
-* [Group Role Bindings](verify-bot/group-role-bindings.md)
-* [Nickname Bindings](verify-bot/nickname-bindings.md)
-* [Asset Bindings](verify-bot/asset-bindings.md)
-
-## Ranking Bot <a href="#rank-bot" id="rank-bot"></a>
-
-* [Getting Started](rank-bot/getting-started.md)
-* [Commands](rank-bot/commands.md)
-
-## MISC
-
-* [Audit Logs](misc/audit-logs.md)
-* [Blacklists](misc/blacklists.md)
-* [General Settings](misc/general-settings.md)
-* [Music Bot](misc/music-bot.md)
-
-## Other
-
-* [Rovolution Premium](other/rovolution-premium.md)
-* [Rovolution Logistics ](other/rovolution-logistics.md)
+* [About the API](groups-api/about-the-api.md)
+* [How to use the API](groups-api/how-to-use-the-api.md)
 
 ## Links
 
