@@ -23,7 +23,7 @@ Invite Rovolution to your server here.
 
 ### Rovolution Premium
 
-Although Rovolution comes packed with amazing features there is more features that are available to [Rovolution Premium users from only $2 a month](https://www.rovolution.me/premium).
+Although Rovolution comes packed with amazing features there is more features that are available to [Rovolution Premium users from only $3 a month](https://www.rovolution.me/premium).
 
 <table><thead><tr><th>Feature</th><th data-type="checkbox">Standard</th><th data-type="checkbox">Premium</th></tr></thead><tbody><tr><td>Groupbinds</td><td>true</td><td>true</td></tr><tr><td>Nickname Binds</td><td>true</td><td>true</td></tr><tr><td>Group Ranking Bot</td><td>true</td><td>true</td></tr><tr><td>SetUp Command</td><td>true</td><td>true</td></tr><tr><td>Audit Logs</td><td>true</td><td>true</td></tr><tr><td>Blacklist Users/Groups </td><td>true</td><td>true</td></tr><tr><td>Disable Roles from using bot</td><td>true</td><td>true</td></tr><tr><td>Asset Role Binds</td><td>false</td><td>true</td></tr><tr><td>Asset Nickname Binds</td><td>false</td><td>true</td></tr><tr><td>UpdateAll Command</td><td>false</td><td>true</td></tr><tr><td>UpdateRole Command</td><td>false</td><td>true</td></tr><tr><td>Premium Support Service</td><td>false</td><td>true</td></tr><tr><td>Minimum Roblox Account Age</td><td>false</td><td>true</td></tr></tbody></table>
 
@@ -43,17 +43,17 @@ GeraldIn2016 role within Rovolution is the founder and creator of Rovolution he 
 
 <details>
 
-<summary><img src=".gitbook/assets/Png (36).png" alt="" data-size="line"> ItaloBeneventi - Italo#5321</summary>
+<summary><img src=".gitbook/assets/Png (38).png" alt="" data-size="line">catipilliar14 - Nillo#4711</summary>
 
-We have no idea what Italo does - he's just important we guess.&#x20;
+catipilliar14 is the driving force of Rovolution behind the scenes and in the public face, he oversees GDPR compliance along with managing customer relationships within Rovolution allowing for any issues to be resolved quickly and resourcefully.&#x20;
 
 </details>
 
 <details>
 
-<summary><img src=".gitbook/assets/Png (38).png" alt="" data-size="line">catipilliar14 - Nillo#4711</summary>
+<summary><img src=".gitbook/assets/Png (36).png" alt="" data-size="line"> ItaloBeneventi - Italo#5321</summary>
 
-catipilliar14 is the driving force of Rovolution behind the scenes and in the public face, he oversees GDPR compliance along with managing customer relationships within Rovolution allowing for any issues to be resolved quickly and resourcefully.&#x20;
+We have no idea what Italo does - he's just important we guess.&#x20;
 
 </details>
 

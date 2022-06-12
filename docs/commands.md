@@ -21,11 +21,12 @@ Rovolution believes in bringing as many features as possible to the users for fr
 
 ### Server Management Commands
 
-|         Command        |                                                                              Usage                                                                             |   |
-| :--------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | - |
-|     delete (count)     |                         This command is locked to server managers and allows you to purge a channel from messages up to three days old.                        |   |
-|        updateall       | This is a **Premium Only** feature which allows a server manager to mass update everyone in a specific servers roles at once ensuring everyone is up to date.  |   |
-| updaterole (ping role) |                     This is a **Premium Only** feature which allows a server manager to mass update everyone with a specific role at once.                     |   |
+|         Command         |                                                                              Usage                                                                             |   |
+| :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | - |
+| setupserver (group url) |      This command will automatically create all verification channels for the bot as well as automatically create all roles/bindings for the group linked.     |   |
+|      delete (count)     |                         This command is locked to server managers and allows you to purge a channel from messages up to three days old.                        |   |
+|        updateall        | This is a **Premium Only** feature which allows a server manager to mass update everyone in a specific servers roles at once ensuring everyone is up to date.  |   |
+|  updaterole (ping role) |                     This is a **Premium Only** feature which allows a server manager to mass update everyone with a specific role at once.                     |   |
 
 ### Rank Bot Commands
 
