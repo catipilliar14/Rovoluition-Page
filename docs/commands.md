@@ -1,3 +1,8 @@
+---
+coverY: 0
+layout: editorial
+---
+
 # Commands
 
 ### Commands Usage

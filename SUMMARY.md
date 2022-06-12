@@ -14,5 +14,5 @@
 ## Links
 
 * [Support Server](https://discord.gg/2bMg4evVWz)
-* [Main Webpage](https://www.rovolution.me)
+* [Main Webpage](https://www.rovolution.me/)
 * [Verify Account](https://www.rovolution.me/verify)
