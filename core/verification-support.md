@@ -2,7 +2,7 @@
 
 ### Verifying for the first time
 
-If you are a new user to Rovolution we welcome you and hope you have a flawless experience with us. To link your account to the bot visit this [link](https://www.rovolution.me/verify), log in using discord. Once you do this you will be directed to a page which will give you two options, we recommend you click 'Verify by Joining a game'.
+If you are a new user to Rovolution we welcome you and hope you have a flawless experience with us. To link your account to the bot visit this [link](https://www.rovolution.me/verify), log in using Discord. Once you do this you will be directed to a page which will give you two options, we recommend you click 'Verify by Joining a game'.
 
 ![](../.gitbook/assets/f00e084f44fe3d66178a03add0d5ce6e.png)
 

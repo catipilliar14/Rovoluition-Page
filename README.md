@@ -6,17 +6,6 @@
 
 Rovolution is a simple and easy to use Roblox to Discord integration tool, it lets server owners and administrators to effectively assign roles from a Roblox Group to a Discord Server. Rovolution also provides its users with an effective and easy to use group management system allowing you to effectively manage what goes on within your group without having to leave through discord from accepting users, managing their ranks or even exiling users - we have it all.&#x20;
 
-### What does Rovolution have to offer you?
-
-Rovolution is here to bring some of the most modern and extensive features any Roblox to Discord bot has to offer with an impressive 99.996% uptime\* and providing you with a 20ms ping giving you an effective and clean management solution. \
-On top of this Rovolution's clean website allows for all the hassle of setting up a permissions through channels to be ignored and easily managed from our webpage, along with this it only takes  one command on the addition of the bot to your server for the bot to create and set up every role and a verification channel all linked to your selected group saving you both time and energy with linking nickname bindings also being this easy. \
-With the above Rovolution is also in a partnership with other Discord verification bots allowing us to have over three million verified members allowing for easy verification mitigating the hassle that comes from verifying with any bot.\
-Comparatively, unlike other Roblox to Discord bots Rovolution offers you an effective and easy to use group management system allowing you to effectively manage what goes on within your group without having to leave through discord from accepting users, managing their ranks or even exiling users - we have it all. \
-\
-With all the amazing features listed above who wouldn't want to use Rovolution in their server?
-
-#### Get Started with your Rovolution journey by clicking below
-
 {% embed url="https://discord.com/oauth2/authorize?client_id=720377344828768257&permissions=1580559424&redirect_uri=http%3A%2F%2Flocalhost%3A5001%2Fwelcome%3Fredirect%3D%22%2Fcommands%22&scope=bot" %}
 Invite Rovolution to your server here.
 {% endembed %}
@@ -37,7 +26,7 @@ Along with this Premium isn't just locked to one server, meaning any server you 
 
 <summary><img src=".gitbook/assets/Png (37).png" alt="" data-size="line">GeraldIn2016 - GeraldisNice#4269</summary>
 
-GeraldIn2016 role within Rovolution is the founder and creator of Rovolution he is the very reason Rovolution is able to bring together over 9.8k Roblox users.
+GeraldIn2016 role within Rovolution is the founder and creator of Rovolution he is the very reason Rovolution is able to bring together over 18k Roblox users.
 
 </details>
 
@@ -45,15 +34,7 @@ GeraldIn2016 role within Rovolution is the founder and creator of Rovolution he 
 
 <summary><img src=".gitbook/assets/Png (38).png" alt="" data-size="line">catipilliar14 - Nillo#4711</summary>
 
-catipilliar14 is the driving force of Rovolution behind the scenes and in the public face, he oversees GDPR compliance along with managing customer relationships within Rovolution allowing for any issues to be resolved quickly and resourcefully.&#x20;
-
-</details>
-
-<details>
-
-<summary><img src=".gitbook/assets/Png (36).png" alt="" data-size="line"> ItaloBeneventi - Italo#5321</summary>
-
-We have no idea what Italo does - he's just important we guess.&#x20;
+catipilliar14 is the driving force of Rovolution behind the scenes and in the public face, he oversees customer relationships & experience within Rovolution allowing for any issues to be resolved quickly and resourcefully.&#x20;
 
 </details>
 

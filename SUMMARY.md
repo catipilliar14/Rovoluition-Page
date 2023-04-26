@@ -1,18 +1,30 @@
 # Table of contents
 
-## Welcome <a href="#docs" id="docs"></a>
-
 * [Home](README.md)
-* [Verification Support](docs/verification-support.md)
-* [Commands](docs/commands.md)
+* [API](api.md)
 
-## Groups API
+## CORE
 
-* [About the API](groups-api/about-the-api.md)
-* [How to use the API](groups-api/how-to-use-the-api.md)
+* [Verification Support](core/verification-support.md)
+* [Commands](core/commands.md)
+
+## BINDS
+
+* [Coming soon](binds/coming-soon.md)
+
+## GROUP MANAGEMENT&#x20;
+
+* [Coming soon](group-management/coming-soon.md)
+
+## LOGISTICS
+
+* [Game Analytics](logistics/game-analytics.md)
+
+## MISC
+
+* [Audit Log](misc/audit-log.md)
 
 ## Links
 
 * [Support Server](https://discord.gg/2bMg4evVWz)
-* [Main Webpage](https://www.rovolution.me/)
-* [Verify Account](https://www.rovolution.me/verify)
+* [Rovolution Partners Hub](https://partners.rovolution.me/)

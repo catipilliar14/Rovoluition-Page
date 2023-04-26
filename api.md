@@ -1,4 +1,8 @@
-# How to use the API
+# API
+
+{% hint style="warning" %}
+This page is currently being reworked to support the new API service.
+{% endhint %}
 
 ### Start Using the Module:
 
@@ -60,7 +64,7 @@ And then copy the cookie into Rovolution Logistics!
 
 #### Example code:
 
-```
+```lua
 -- Example using the Rovolution API --
 local Rovolution_Module = require(9520664531).default -- Default because of the way the wrapper is written
 
@@ -82,7 +86,7 @@ API:PromoteUser(groupID, userID)
 
 The wrapper exposes 5 functions, we aim to implement more.
 
-```
+```lua
 API:PromoteUser(groupID, userID)
 API:DemoteUser(groupID, userID)
 API:AcceptJoinRequest(groupID, userID)
@@ -99,7 +103,7 @@ Only **POST** requests accepted!
 
 Example lua code
 
-```
+```lua
 local HttpService = GetService("HttpService")
 local json_Serialised = HttpService:JSONEncode({
             projectID = "ENTER_PROJECT_KEY_HERE",
